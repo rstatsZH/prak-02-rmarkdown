@@ -47,6 +47,7 @@ po/*~
 # Solutions files
 *-solutions.Rmd
 *-solutions.html
+*-solutions.md
 
 # ignore _files folder
 *_files
